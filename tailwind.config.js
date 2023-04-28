@@ -44,7 +44,7 @@ export default {
         rotateFast: "rotate 20s linear infinite",
         rotateMedium: "rotate 25s linear infinite",
         rotateSlow: "rotate 30s linear infinite",
-        movement: "move 4s ease-in-out infinite",
+        movement: "move 5s ease-in-out infinite",
       },
     },
   },
