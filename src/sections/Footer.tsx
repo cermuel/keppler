@@ -27,8 +27,7 @@ const Footer = () => {
           </ul>
         </div>
         <p className="font-extralight text-sm mt-12">
-          Keppler is an open-source project made by Bruno Simon and released
-          under the MIT license.
+          Keppler is an open-source project made by Bruno Simon and cloned by <a href="https://cermuel.vercel.app">CERMUEL</a>
         </p>
       </section>
     </footer>
